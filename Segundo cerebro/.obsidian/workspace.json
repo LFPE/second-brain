@@ -11,10 +11,14 @@
             "id": "ae90ac6408cb63ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Snippets/Git.md.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Git.md"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,12 +177,26 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95df7ba16fed122d",
+  "active": "ae90ac6408cb63ab",
   "lastOpenFiles": [
-    "Sem título.canvas",
-    "Bem-vindo.md"
+    "Projetos/Programação/tracker/README.md.md",
+    "Projetos/Programação/tracker/Tracker.md.md",
+    "Projetos/Programação/tracker/ideias.md.md",
+    "Projetos/Programação/tracker/aprendizados.md.md",
+    "Projetos/Template Projeto.md",
+    "Snippets/Git.md.md",
+    "Projetos/Programação/tracker",
+    "Projetos/Programação/Tracker.md.md",
+    "Snippets",
+    "Bem-vindo.md",
+    "Projetos/Estudos",
+    "Projetos/Ideias",
+    "Projetos/Programação",
+    "Projetos",
+    "Sem título.canvas"
   ]
 }
