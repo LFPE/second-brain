@@ -11,14 +11,10 @@
             "id": "ae90ac6408cb63ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippets/Git.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git.md"
+              "title": "Nova aba"
             }
           }
         ]
@@ -178,25 +174,36 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ae90ac6408cb63ab",
+  "active": "d2f076a6a0ad5c41",
   "lastOpenFiles": [
-    "Projetos/Programação/tracker/README.md.md",
-    "Projetos/Programação/tracker/Tracker.md.md",
-    "Projetos/Programação/tracker/ideias.md.md",
-    "Projetos/Programação/tracker/aprendizados.md.md",
-    "Projetos/Template Projeto.md",
-    "Snippets/Git.md.md",
-    "Projetos/Programação/tracker",
+    "Sem título",
+    "Sem título.md",
+    "05-Documentação",
+    "00- Inbox",
+    "04-Snippets",
+    "01-Estudos.md",
+    "00-Inbox.md",
+    "01-Estudos",
+    "05-Documentação.md",
+    "Templates",
+    "04-Snippets.md",
+    "03-Ideias",
+    "02-Projetos",
+    "04-Snippets/Git.md.md",
+    "02-Projetos/Programação/tracker/README.md.md",
+    "02-Projetos/Programação/tracker/Tracker.md.md",
+    "02-Projetos/Programação/tracker/ideias.md.md",
+    "02-Projetos/Programação/tracker/aprendizados.md.md",
+    "Templates/Template Projeto.md",
+    "02-Projetos/Programação/tracker",
     "Projetos/Programação/Tracker.md.md",
     "Snippets",
     "Bem-vindo.md",
-    "Projetos/Estudos",
-    "Projetos/Ideias",
-    "Projetos/Programação",
-    "Projetos",
+    "01-Estudos/Estudos",
     "Sem título.canvas"
   ]
 }
