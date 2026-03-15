@@ -1,12 +1,20 @@
 # 🧠 Second Brain – Obsidian Knowledge System
 
+![Banner](assets/banner.png)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/LFPE/second-brain)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LFPE/second-brain)
 ![GitHub repo stars](https://img.shields.io/github/stars/LFPE/second-brain?style=social)
 
-Este repositório contém meu **Second Brain**, um sistema pessoal de organização de conhecimento criado utilizando **Obsidian, Markdown, Git e GitHub**.
+Este repositório contém meu **Second Brain**, um sistema pessoal de organização de conhecimento criado com **Obsidian, Markdown, Git e GitHub**.
 
-O objetivo é construir um ambiente estruturado para registrar **estudos, projetos, ideias, snippets de código e documentação técnica**, mantendo tudo versionado e organizado.
+O objetivo é construir um ambiente estruturado para registrar estudos, projetos, ideias, snippets de código e documentação técnica.
+
+---
+
+# 📸 Preview
+
+![Obsidian Preview](assets/obsidian-preview.png)
 
 ---
 
@@ -14,87 +22,75 @@ O objetivo é construir um ambiente estruturado para registrar **estudos, projet
 
 Segundo cerebro
 │
-├── 00-Inbox → capturas rápidas e ideias temporárias
-├── 01-Estudos → conteúdos e anotações de aprendizado
-├── 02-Projetos → projetos em desenvolvimento
-├── 03-Ideias → ideias de novos projetos ou melhorias
-├── 04-Snippets → trechos de código reutilizáveis
-├── 05-Documentacao → documentação técnica e conhecimento consolidado
+├── 00-Inbox → capturas rápidas
+├── 01-Estudos → conteúdos de aprendizado
+├── 02-Projetos → projetos em andamento
+├── 03-Ideias → ideias e melhorias
+├── 04-Snippets → código reutilizável
+├── 05-Documentacao → documentação técnica
 │
-├── Templates → modelos de notas para estudos e projetos
+├── Templates → modelos de notas
 ├── 99-Dashboard → visão geral do sistema
 │
-├── Mapa do conhecimento.md → navegação central do sistema
-└── README.md → descrição do repositório
+├── Mapa do conhecimento.md
+└── README.md
 
 ---
 
-# ⚙️ Tecnologias Utilizadas
+# ⚙️ Tecnologias
 
-Este sistema utiliza as seguintes ferramentas:
-
-* **Obsidian** → organização das notas
-* **Markdown** → formato de escrita
-* **Git** → controle de versão
-* **GitHub** → backup e armazenamento remoto
+* Obsidian
+* Markdown
+* Git
+* GitHub
 
 ---
 
-# 🔌 Plugins Utilizados no Obsidian
+# 🔌 Plugins
 
-Alguns plugins da comunidade foram utilizados para melhorar a produtividade:
-
-* **Dataview** → criação de dashboards automáticos
-* **Templater** → geração automática de notas com templates
-* **Obsidian Git** → integração com Git e GitHub
-* **Kanban** → gestão visual de tarefas e projetos
-* **QuickAdd** → captura rápida de ideias e notas
+* Dataview
+* Templater
+* Obsidian Git
+* Kanban
+* QuickAdd
 
 ---
 
-# 🧭 Fluxo de Organização
+# 🧭 Fluxo de Uso
 
-O sistema segue uma lógica simples de organização:
-
-1. Capturas rápidas e ideias são registradas em **00-Inbox**
-2. Conteúdo de estudo é organizado em **01-Estudos**
-3. Projetos ativos ficam em **02-Projetos**
-4. Ideias futuras ou melhorias são registradas em **03-Ideias**
-5. Códigos reutilizáveis ficam em **04-Snippets**
-6. Documentação consolidada fica em **05-Documentacao**
-
-Esse fluxo ajuda a manter o conhecimento organizado e fácil de navegar.
+1. Captura rápida → `00-Inbox`
+2. Estudos → `01-Estudos`
+3. Projetos → `02-Projetos`
+4. Ideias → `03-Ideias`
+5. Snippets → `04-Snippets`
+6. Documentação → `05-Documentacao`
 
 ---
 
-# 🔄 Backup e Versionamento
+# 🔄 Backup
 
-O vault é versionado utilizando **Git** e sincronizado com **GitHub**, garantindo:
+O vault é versionado com Git e sincronizado com GitHub.
 
-* histórico de alterações
-* backup seguro
-* rastreabilidade das modificações
-
-Para atualizar o repositório manualmente:
-
+```
 git add .
 git commit -m "Atualização do second brain"
 git push
+```
 
 ---
 
-# 🎯 Objetivo do Projeto
+# 🎯 Objetivo
 
-Este sistema foi criado para:
+Criar um sistema pessoal de organização de conhecimento para:
 
-* centralizar conhecimento técnico
-* organizar estudos e documentação
-* registrar ideias e projetos
-* armazenar snippets de código
-* manter histórico de conhecimento com Git
+* organizar estudos
+* gerenciar projetos
+* registrar ideias
+* armazenar código reutilizável
+* manter documentação técnica
 
 ---
 
 # 👤 Autor
 
-**Felipe Pinho**
+Felipe Pinho
