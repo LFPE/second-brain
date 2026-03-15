@@ -11,10 +11,14 @@
             "id": "ae90ac6408cb63ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02-Projetos/Kanban-Projetos.md.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Kanban-Projetos.md"
             }
           }
         ]
@@ -178,10 +182,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2f076a6a0ad5c41",
+  "active": "ae90ac6408cb63ab",
   "lastOpenFiles": [
-    "Sem título",
-    "Sem título.md",
+    "00- Inbox/Inbox.md.md",
+    "02-Projetos/Kanban-Projetos.md.md",
+    "99- Dashboard/Dashboard.md.md",
+    "README.md.md",
+    "99- Dashboard",
+    "Dashboard",
+    "Templates/Template Projeto.md",
+    "Templates/Template-Estudos.md",
+    "01-Estudos/Estudos.md.md",
+    "Linux.md",
+    "Mapa do conheciento.md.md",
     "05-Documentação",
     "00- Inbox",
     "04-Snippets",
@@ -198,12 +211,9 @@
     "02-Projetos/Programação/tracker/Tracker.md.md",
     "02-Projetos/Programação/tracker/ideias.md.md",
     "02-Projetos/Programação/tracker/aprendizados.md.md",
-    "Templates/Template Projeto.md",
     "02-Projetos/Programação/tracker",
     "Projetos/Programação/Tracker.md.md",
-    "Snippets",
     "Bem-vindo.md",
-    "01-Estudos/Estudos",
     "Sem título.canvas"
   ]
 }
