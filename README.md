@@ -1,96 +1,72 @@
-# 🧠 Second Brain – Obsidian Knowledge System
+# 🧠 Second Brain – Obsidian
 
-![Banner](assets/banner.png)
+Este repositório contém meu sistema de organização pessoal usando **Obsidian, Markdown, Git e GitHub**. A ideia é manter um “segundo cérebro” digital onde ficam organizados estudos, projetos, ideias, snippets de código e documentação técnica. Todo o conteúdo é escrito em Markdown e versionado com Git para manter histórico, backup e organização do conhecimento.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/LFPE/second-brain)
-![GitHub last commit](https://img.shields.io/github/last-commit/LFPE/second-brain)
-![GitHub repo stars](https://img.shields.io/github/stars/LFPE/second-brain?style=social)
-
-Este repositório contém meu **Second Brain**, um sistema pessoal de organização de conhecimento criado com **Obsidian, Markdown, Git e GitHub**.
-
-O objetivo é construir um ambiente estruturado para registrar estudos, projetos, ideias, snippets de código e documentação técnica.
-
----
-
-# 📸 Preview
-
-![Obsidian Preview](assets/obsidian-preview.png)
-
----
-
-# 📚 Estrutura do Vault
+## Estrutura do Vault
 
 Segundo cerebro
 │
-├── 00-Inbox → capturas rápidas
-├── 01-Estudos → conteúdos de aprendizado
+├── 00-Inbox → capturas rápidas e ideias temporárias
+├── 01-Estudos → conteúdos e anotações de aprendizado
 ├── 02-Projetos → projetos em andamento
-├── 03-Ideias → ideias e melhorias
-├── 04-Snippets → código reutilizável
-├── 05-Documentacao → documentação técnica
+├── 03-Ideias → ideias de projetos ou melhorias
+├── 04-Snippets → trechos de código reutilizáveis
+├── 05-Documentacao → documentação técnica e conhecimento consolidado
 │
 ├── Templates → modelos de notas
 ├── 99-Dashboard → visão geral do sistema
 │
-├── Mapa do conhecimento.md
-└── README.md
+├── Mapa do conhecimento.md → navegação central do vault
+└── README.md → descrição do repositório
 
----
-
-# ⚙️ Tecnologias
+## Tecnologias Utilizadas
 
 * Obsidian
 * Markdown
 * Git
 * GitHub
 
----
+## Plugins do Obsidian
 
-# 🔌 Plugins
+Este vault utiliza alguns plugins da comunidade para melhorar produtividade e organização:
 
-* Dataview
-* Templater
-* Obsidian Git
-* Kanban
-* QuickAdd
+* Dataview → criação de dashboards automáticos
+* Templater → geração automática de notas com templates
+* Obsidian Git → integração com Git e GitHub
+* Kanban → gestão visual de tarefas
+* QuickAdd → captura rápida de ideias e notas
 
----
+## Fluxo de Uso
 
-# 🧭 Fluxo de Uso
+O fluxo de organização funciona da seguinte forma:
 
-1. Captura rápida → `00-Inbox`
-2. Estudos → `01-Estudos`
-3. Projetos → `02-Projetos`
-4. Ideias → `03-Ideias`
-5. Snippets → `04-Snippets`
-6. Documentação → `05-Documentacao`
+1. Ideias rápidas ou anotações temporárias são capturadas em **00-Inbox**
+2. Conteúdo de estudo é organizado em **01-Estudos**
+3. Projetos em desenvolvimento ficam em **02-Projetos**
+4. Ideias de projetos ou melhorias vão para **03-Ideias**
+5. Trechos de código reutilizáveis ficam em **04-Snippets**
+6. Conhecimento consolidado e documentação técnica vão para **05-Documentacao**
 
----
+## Backup e Versionamento
 
-# 🔄 Backup
+Todo o vault é versionado com **Git** e sincronizado com **GitHub**, permitindo manter histórico de alterações e backup do conteúdo.
 
-O vault é versionado com Git e sincronizado com GitHub.
+Para atualizar o repositório:
 
-```
 git add .
 git commit -m "Atualização do second brain"
 git push
-```
 
----
+## Objetivo do Projeto
 
-# 🎯 Objetivo
+Criar um sistema pessoal de organização de conhecimento que permita:
 
-Criar um sistema pessoal de organização de conhecimento para:
+* centralizar estudos e documentação
+* registrar ideias e projetos
+* armazenar snippets de código
+* manter histórico e backup com GitHub
+* facilitar navegação e visualização do conhecimento
 
-* organizar estudos
-* gerenciar projetos
-* registrar ideias
-* armazenar código reutilizável
-* manter documentação técnica
-
----
-
-# 👤 Autor
+## Autor
 
 Felipe Pinho
