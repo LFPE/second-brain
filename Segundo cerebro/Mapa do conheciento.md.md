@@ -8,6 +8,7 @@
 ## 📚 Estudos
 - [[01-Estudos/Programacao/ETL-Pipelines-Python|ETL Pipelines com Python]]
 - [[01-Estudos/Programacao/Hono-Cloudflare-Workers|Hono & Cloudflare Workers]]
+- [[01-Estudos/Programacao/Guia-Cloudflare-Pages-Workers|Guia de Deploy na Cloudflare]]
 
 ---
 
@@ -15,6 +16,7 @@
 - [[02-Projetos/System-Tracker|System Tracker]]
 - [[02-Projetos/Sales-Data-Analysis|Sales Data Analysis]]
 - [[02-Projetos/File-Organizer|File Organizer (PowerShell)]]
+- [[02-Projetos/Portfolio-Website|Portfólio Web (Designer-Grade)]]
 - [[02-Projetos/Kanban-Projetos|Quadro Kanban de Projetos]]
 
 ---
