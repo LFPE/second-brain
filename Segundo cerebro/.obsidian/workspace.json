@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ecdf8dbd239f1e",
+        "id": "cd9ed27bae70068b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae90ac6408cb63ab",
+            "id": "f14867e4614d064c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Projetos/Kanban-Projetos.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kanban-Projetos.md"
+              "title": "Nova aba"
             }
           }
         ]
@@ -182,19 +178,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae90ac6408cb63ab",
+  "active": "f14867e4614d064c",
   "lastOpenFiles": [
+    "02-Projetos/Programação/tracker/Tracker.md.md",
+    "01-Estudos/Estudos.md.md",
     "00- Inbox/Inbox.md.md",
+    "Mapa do conheciento.md.md",
+    "README.md.md",
     "02-Projetos/Kanban-Projetos.md.md",
     "99- Dashboard/Dashboard.md.md",
-    "README.md.md",
     "99- Dashboard",
     "Dashboard",
     "Templates/Template Projeto.md",
     "Templates/Template-Estudos.md",
-    "01-Estudos/Estudos.md.md",
     "Linux.md",
-    "Mapa do conheciento.md.md",
     "05-Documentação",
     "00- Inbox",
     "04-Snippets",
@@ -208,7 +205,6 @@
     "02-Projetos",
     "04-Snippets/Git.md.md",
     "02-Projetos/Programação/tracker/README.md.md",
-    "02-Projetos/Programação/tracker/Tracker.md.md",
     "02-Projetos/Programação/tracker/ideias.md.md",
     "02-Projetos/Programação/tracker/aprendizados.md.md",
     "02-Projetos/Programação/tracker",
