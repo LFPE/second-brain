@@ -4,20 +4,17 @@ Este repositório contém meu sistema de organização pessoal usando **Obsidian
 
 ## Estrutura do Vault
 
-Segundo cerebro
-│
-├── 00-Inbox → capturas rápidas e ideias temporárias
-├── 01-Estudos → conteúdos e anotações de aprendizado
-├── 02-Projetos → projetos em andamento
-├── 03-Ideias → ideias de projetos ou melhorias
-├── 04-Snippets → trechos de código reutilizáveis
-├── 05-Documentacao → documentação técnica e conhecimento consolidado
-│
-├── Templates → modelos de notas
-├── 99-Dashboard → visão geral do sistema
-│
-├── Mapa do conhecimento.md → navegação central do vault
-└── README.md → descrição do repositório
+```text
+Segundo cerebro/
+├── 00-Inbox/          # Capturas rápidas e anotações temporárias
+├── 01-Estudos/        # Conteúdos, tópicos e artigos de aprendizado
+├── 02-Projetos/       # Projetos em andamento e estudos de caso
+├── 03-Ideias/         # Ideias de novos sistemas ou melhorias
+├── 04-Snippets/       # Biblioteca de trechos de código reutilizáveis
+├── 05-Documentacao/   # Guias de referência e conhecimento consolidado
+├── Templates/         # Modelos estruturados para novas notas
+└── 99-Dashboard/      # Centro de controle e relatórios dinâmicos
+```
 
 ## Tecnologias Utilizadas
 
