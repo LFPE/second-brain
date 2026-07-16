@@ -1,5 +1,0 @@
-
-# Inbox
-
-## Capturas rápidas
-- 

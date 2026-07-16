@@ -1,69 +1,57 @@
-# 🧠 Second Brain – Obsidian
+# 🧠 Second Brain — Obsidian (Knowledge OS)
 
-Este repositório contém meu sistema de organização pessoal usando **Obsidian, Markdown, Git e GitHub**. A ideia é manter um “segundo cérebro” digital onde ficam organizados estudos, projetos, ideias, snippets de código e documentação técnica. Todo o conteúdo é escrito em Markdown e versionado com Git para manter histórico, backup e organização do conhecimento.
+Este repositório contém meu sistema de organização pessoal e gestão de conhecimento técnico construído sob a metodologia **Knowledge OS** com o **Obsidian**. Todo o conteúdo é estruturado em Markdown, com links bidirecionais e versionamento automático via Git.
 
-## Estrutura do Vault
+---
+
+## 🗂️ Estrutura do Vault (Knowledge OS)
 
 ```text
 Segundo cerebro/
-├── 00-Inbox/          # Capturas rápidas e anotações temporárias
-├── 01-Estudos/        # Conteúdos, tópicos e artigos de aprendizado
-├── 02-Projetos/       # Projetos em andamento e estudos de caso
-├── 03-Ideias/         # Ideias de novos sistemas ou melhorias
-├── 04-Snippets/       # Biblioteca de trechos de código reutilizáveis
-├── 05-Documentacao/   # Guias de referência e conhecimento consolidado
-├── Templates/         # Modelos estruturados para novas notas
-└── 99-Dashboard/      # Centro de controle e relatórios dinâmicos
+├── 00-Inbox/            # Captura rápida de pensamentos e tarefas temporárias (GTD)
+├── 01-Diário/           # Registros diários de progresso, problemas e tempo gasto
+├── 02-Projetos/         # Wikis modulares de projetos ativos (JurisHub, System-Tracker, etc.)
+├── 03-Conhecimento/     # Notas técnicas categorizadas por camadas (Backend, Frontend, Infra, IA)
+├── 04-Arquitetura/      # Padrões arquiteturais consolidados (DDD, Hexagonal, Clean, SOLID)
+├── 05-Carreira/         # Gestão de metas profissionais e conquistas
+├── 06-Standards/        # Guias de padronizações de código, commits, UI e checklists
+├── 06-Templates/        # Modelos estruturados de notas para automação
+├── 07-AI/               # Prompts, personas, skills e workflows de inteligência artificial
+├── 08-Livros/           # Resumos e notas de leitura de livros técnicos
+├── 09-Cursos/           # Anotações e certificações de cursos concluídos
+├── 10-Referências/      # Links externos úteis e artigos de referência
+├── 11-Roadmaps/         # Planejamento de médio e longo prazo dos projetos
+├── 12-Decisões/         # Histórico de Registros de Decisão de Arquitetura (ADRs) por projeto
+├── 13-Research/         # Pesquisas de tecnologias e viabilidade antes da adoção
+├── 14-Lab/              # Testes experimentais e rascunhos de código
+├── 15-Assets/           # Imagens, mídias e arquivos de apoio do vault
+├── 16-Snippets/         # Trechos de códigos reutilizáveis (SQL, Shell, Git)
+├── 17-Diagrams/         # Modelos e gabaritos de diagramas Mermaid
+├── 18-Playbooks/        # Procedimentos operacionais de deploys e revisões (SOPs)
+├── 19-Metrics/          # Acompanhamento de linhas de código, cobertura e desempenho
+├── 20-Resources/        # Recursos de design, referências visuais e paletas de cores
+└── 99-Arquivados/       # Projetos pausados, concluídos ou ideias descartadas
 ```
 
-## Tecnologias Utilizadas
+---
 
-* Obsidian
-* Markdown
-* Git
-* GitHub
+## 🛠️ Tecnologias & Plugins Utilizados
 
-## Plugins do Obsidian
+*   **Obsidian:** Editor central baseado em Markdown local.
+*   **Dataview:** Consultas e dashboards automatizados baseados em metadados.
+*   **Templater:** Geração automatizada de notas estruturadas com layouts pré-definidos.
+*   **Obsidian Git:** Sincronização e versionamento em segundo plano.
 
-Este vault utiliza alguns plugins da comunidade para melhorar produtividade e organização:
+---
 
-* Dataview → criação de dashboards automáticos
-* Templater → geração automática de notas com templates
-* Obsidian Git → integração com Git e GitHub
-* Kanban → gestão visual de tarefas
-* QuickAdd → captura rápida de ideias e notas
+## 🚀 Fluxo de Uso e Processamento
 
-## Fluxo de Uso
+1.  **Capturar:** Registros rápidos e desorganizados são despejados na pasta `00-Inbox/`.
+2.  **Processar:** Avaliação semanal da inbox para arquivar conhecimentos na wiki (`03-Conhecimento/`) ou agendar tarefas nos projetos.
+3.  **Registrar:** Diários técnicos diários na pasta `01-Diário/` contendo aprendizados, problemas resolvidos e tempo gasto.
 
-O fluxo de organização funciona da seguinte forma:
+---
 
-1. Ideias rápidas ou anotações temporárias são capturadas em **00-Inbox**
-2. Conteúdo de estudo é organizado em **01-Estudos**
-3. Projetos em desenvolvimento ficam em **02-Projetos**
-4. Ideias de projetos ou melhorias vão para **03-Ideias**
-5. Trechos de código reutilizáveis ficam em **04-Snippets**
-6. Conhecimento consolidado e documentação técnica vão para **05-Documentacao**
+## 📝 Autor
 
-## Backup e Versionamento
-
-Todo o vault é versionado com **Git** e sincronizado com **GitHub**, permitindo manter histórico de alterações e backup do conteúdo.
-
-Para atualizar o repositório:
-
-git add .
-git commit -m "Atualização do second brain"
-git push
-
-## Objetivo do Projeto
-
-Criar um sistema pessoal de organização de conhecimento que permita:
-
-* centralizar estudos e documentação
-* registrar ideias e projetos
-* armazenar snippets de código
-* manter histórico e backup com GitHub
-* facilitar navegação e visualização do conhecimento
-
-## Autor
-
-Felipe Pinho
+*   **Felipe Pinho** — *Engenheiro de Sistemas & Análise de Dados*
